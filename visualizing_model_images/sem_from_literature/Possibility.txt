@@ -1,0 +1,1 @@
+Figure5-A1.jpg	0.99923396Figure5-A2.jpg	1.0Figure5-A3.jpg	0.99581146Figure5-B1.jpg	4.609133e-07Figure5-B2.jpg	1.873065e-09Figure5-B3.jpg	0.9966139Figure5-C.jpg	1.322989e-08Figure5-D.jpg	1.0Figure5-E.jpg	1.0Figure5-F.jpg	5.645544e-09
